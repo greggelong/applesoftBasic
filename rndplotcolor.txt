@@ -1,0 +1,8 @@
+10 home
+20 gr
+30 x = int(rnd(1)*40)
+40 y = int(rnd(1)*40)
+50 c = int(rnd(1)*12)
+60 color = c
+70 plot x,y
+80 goto 30
